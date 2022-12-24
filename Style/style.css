@@ -120,8 +120,15 @@ nav ul a{
     margin-left: 70px;
     margin-right: 150px;
 }
+.porduct-img{
+  height: 200px;
+  width: 200px;
+}
 
-
+.See-more {
+  text-decoration: none;
+ padding-right: 50px;
+}
 
 
 
