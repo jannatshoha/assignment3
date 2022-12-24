@@ -1,9 +1,16 @@
 body{
     color: black;
-   margin: 10px 90px
+    font-family: 'Playfair Display', serif;
+   
+   
    }
 .h2-heading{
   margin-top: 30px;
+  margin-left: 70px;
+}
+.margin{
+
+margin-left: 70px;
 }
 
 
@@ -59,3 +66,107 @@ nav ul a{
     display: block;
    
 }
+
+  .logo-1{
+    height:100px;
+    width: 100px;
+    margin-right:70px;
+  }
+  .logo-2{
+    height:100px;
+    width: 100px;
+    margin-right:70px;
+  }
+  
+  .logo-3{
+    height:100px;
+    width: 100px;
+    margin-right:70px;
+  }
+  
+  .logo-4{
+    height:100px;
+    width: 100px;
+    margin-right:70px;
+  }
+  
+  .logo-5{
+    height:100px;
+    width: 100px;
+    margin-right:70px;
+  }
+  
+  .logo-6{
+    height:100px;
+    width: 100px;
+    margin-right:70px;
+  }
+  
+  .logo-7{
+    height:100px;
+    width: 100px;
+    margin-right:70px;
+  }
+  .Zoom:hover{
+    transform: scale(1.5);
+    -webkit-transform: scale(1.5);
+    -moz-transform: scale(1.5);
+    -ms-transform: scale(1.5);
+    -o-transform: scale(1.5);
+}
+.border{
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+    margin-left: 70px;
+    margin-right: 150px;
+}
+
+
+
+
+
+
+
+
+.footer{
+  background-color: rgb(0, 255, 234);
+  text-align: center;
+  height: 100%;
+  width: 100%;
+ padding-top: 45px;
+ padding-bottom: 5px;
+  
+}
+.display a{text-decoration: none;
+
+}
+.foter-1 a{
+  background-color: azure;
+  padding: 5px 10px;
+  margin-left: 70px;
+}
+.foter-2{
+  text-align: center;
+  margin-left: 250px;
+}
+.foter-3{
+  color: azure;
+  margin-left: 260px;
+  padding: 5px 10px;
+
+}
+.bg{
+  background-color:white;
+  padding: 5px 10px;
+  
+}
+ 
+
+
+span{
+  color: red;
+}
+
+  
+  
+  
